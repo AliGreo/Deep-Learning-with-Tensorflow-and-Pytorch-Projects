@@ -1,4 +1,4 @@
 # Deep-Learning-with-Tensorflow-Projects
-This Repository is  for my projects from Deep Learning with Tensorflow 
+<h4>This Repository is  for my projects from Deep Learning with Tensorflow and Pyttoch Frameworks
 the repository include projects about CNNs and NLP Tasks with RNNs
-object detection project as well
+object detection project as well</h4>
